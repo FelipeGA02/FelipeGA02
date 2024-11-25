@@ -1,4 +1,4 @@
-# 🌟 Felipe Araujo | Cientista de Dados & Desenvolvedor Full Stack 🌟
+# 🌟 Felipe Araujo | Cientista de Dados & Desenvolvedor Full Stack
 
 🎓 Estudante de Ciência da Computação na **Dom Helder Escola Superior**  
 📍 Belo Horizonte, MG, Brasil  
