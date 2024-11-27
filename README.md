@@ -8,16 +8,6 @@
 
 <div align="center">
 
-### 📊 **Status**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeGA02&show_icons=true&theme=radical&hide=prs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGA02&layout=compact&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🛠️ **Tecnologias Mais Usadas**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
