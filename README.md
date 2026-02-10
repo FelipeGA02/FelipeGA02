@@ -1,91 +1,136 @@
-# Felipe Gurgel  
-**Data Engineer | Analytics | Backend & Data Pipelines**
+# 🚀 Felipe Gurgel  
+**Data Engineer | Data Analytics | Backend & Data Systems**
 
-Building scalable data solutions, financial integrations and analytics systems that support real business decisions.
-
-📍 Brazil  
 📧 felipegurgel5@gmail.com  
+📱 +55 31 97134-6821  
 💼 [LinkedIn](https://linkedin.com/felipearaujo)  
 💻 [GitHub](https://github.com/FelipeGA02)
 
 ---
 
-## 👨‍💻 About Me
-Data Engineer with strong experience in **data pipelines, ETL, financial data processing and analytics** within high-criticality corporate environments.
+# 👨‍💻 About Me
+Data Engineer with hands-on experience in **data engineering, software engineering and analytics**, working with large-scale and high-criticality data environments.
 
-I work at the intersection of **data engineering + software engineering**, building structured data solutions, integrations with financial systems, dashboards and cloud-based architectures on AWS.
+Strong experience building **ETL pipelines, structured data integrations, financial data processing and analytics dashboards** that support real business decisions.
 
-Focused on performance, scalability and clean data architecture — always aiming to turn raw data into reliable decision-making tools.
+Background in **Python, SQL, Java and JavaScript**, with cloud experience on AWS and a strong focus on scalable data architecture, performance and clean engineering practices.
 
----
-
-## ⚡ What I Do Best
-- Build and optimize **data pipelines & ETL processes**
-- Work with **financial and large-scale structured data**
-- Design **data models and integrations with external systems**
-- Create **analytics dashboards and business metrics**
-- Develop **backend and data-driven solutions**
-- Operate in **cloud environments (AWS)**
+Always improving technically through challenging projects and continuous learning in global and collaborative environments.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Core Skills
 
-### 💻 Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## 💻 Languages & Integration
+- Python  
+- SQL  
+- Java (Spring Boot)  
+- JavaScript  
+- REST APIs  
 
-### 📊 Data Engineering & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-informational?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=for-the-badge)
+## 📊 Data Engineering & Analytics
+- ETL & Data Pipelines  
+- Pandas, NumPy  
+- Data Processing & Transformation  
+- Data Modeling  
+- Financial & Payment Data  
 
-### 📈 BI & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+## 📈 BI & Visualization
+- Power BI  
+- Advanced Excel  
+- Analytical Dashboards  
+- KPI & Metrics Modeling  
 
-### ☁️ Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+## ☁️ Cloud & Infrastructure
+- AWS (S3, RDS, IAM, Cognito, SES)  
+- Docker  
+- Microservices Architecture  
+- PostgreSQL  
 
-### 🤖 Data Science & ML
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+## 🤖 Data Science & Machine Learning
+- Scikit-learn  
+- TensorFlow & Keras  
+- YOLO  
+- Jupyter Notebook  
 
----
+## ⚙️ Methodologies
+- Git  
+- Scrum & Kanban  
+- Agile environment  
+- Metrics-driven development  
 
-## 📊 Featured Areas
-**Financial Data Engineering**  
-Pipelines, structured files, banking integrations and billing data.
-
-**Analytics & Decision Support**  
-Dashboards, KPIs and metrics-driven insights for business teams.
-
-**Backend & Data Systems**  
-Microservices, APIs and cloud-based data architectures.
-
----
-
-## 🎯 Current Focus
-- Data Engineering (ETL, pipelines, architecture)
-- Cloud data environments (AWS)
-- Financial & payment data systems
-- Scalable analytics infrastructure
+**Languages:** English — C1 (Advanced)
 
 ---
 
-## 📫 Let's Connect
-I’m open to opportunities in **Data Engineering, Analytics and Data-focused Software roles**, especially international and remote environments.
+# 💼 What You'll Find in My GitHub
+This GitHub focuses on **real-world data engineering, analytics and backend projects**, including:
+
+- Data pipelines & ETL projects  
+- Financial and analytical data processing  
+- Dashboards and decision-support analytics  
+- Data science and machine learning experiments  
+- Backend and cloud-integrated systems  
+
+All projects are built focusing on **clean architecture, scalability and business impact**.
+
+---
+
+# 🌟 Featured Portfolio Projects
+
+## 📊 Financial Data Analysis (Python)
+Financial market analysis using data science techniques:
+- Returns, volatility and risk calculations  
+- Sharpe Ratio, CAPM and Markowitz Efficient Frontier  
+- Data visualization with Pandas & Matplotlib  
+- Portfolio performance analytics  
+
+---
+
+## 📈 Business Dashboards (Power BI & Excel)
+Analytics dashboards designed for decision-making:
+- KPI modeling and business metrics  
+- Automated reporting  
+- Data modeling and visualization  
+- Business performance tracking  
+
+---
+
+## 🤖 Computer Vision — Vine Disease Classifier
+Deep learning project using TensorFlow & Keras:
+- Image classification pipeline  
+- Plant disease detection  
+- Model training and evaluation  
+
+---
+
+## 🧬 Blood Pathology Prediction
+Medical imaging and deep learning:
+- Cell segmentation with Cellpose & U-Net  
+- Classification of blood samples  
+- Computer vision pipeline  
+
+---
+
+# 🎯 Current Focus
+- Data Engineering & ETL pipelines  
+- Financial and payment data systems  
+- Cloud data environments (AWS)  
+- Scalable analytics architecture  
+- Backend systems for data-driven applications  
+
+---
+
+# 🤝 Let's Connect
+I’m open to opportunities in:
+
+**Data Engineering | Analytics | Data-focused Backend | International/Remote roles**
+
+If you're a recruiter or engineer working with data, feel free to connect.
 
 💼 LinkedIn: https://linkedin.com/felipearaujo  
 📧 Email: felipegurgel5@gmail.com  
 
 ---
 
-⭐ If you're a recruiter or engineer working with data, feel free to connect.
+⭐ Always building, learning and improving data systems.
