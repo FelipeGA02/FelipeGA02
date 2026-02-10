@@ -6,26 +6,7 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 
 ---
 
-# 📊 Engineering Metrics
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeGA02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGA02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=FelipeGA02&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=FelipeGA02&color=blueviolet&style=flat-square"/>
-</p>
-
----
-
-# 🚀 About Me
+# About Me
 Data Engineer focused on building reliable data pipelines, analytics infrastructure and backend systems for data-driven products.  
 Experience with financial data, ETL processes and cloud environments, always aiming for scalability, performance and clean architecture.
 
@@ -33,7 +14,7 @@ Seeking international opportunities to contribute to data platforms and analytic
 
 ---
 
-# 🧠 Core Skills
+# Core Skills
 
 **Languages:** Python, SQL, Java, JavaScript  
 **Data Engineering:** ETL, Data Pipelines, Data Modeling, Data Processing  
@@ -44,7 +25,7 @@ Seeking international opportunities to contribute to data platforms and analytic
 
 ---
 
-# 🏗️ What I Build
+# What I Build
 - Scalable data pipelines and ETL workflows  
 - Financial and payment data processing systems  
 - Analytics dashboards and KPI tracking  
@@ -53,7 +34,7 @@ Seeking international opportunities to contribute to data platforms and analytic
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 ### Financial Data & Portfolio Analytics
 - Portfolio analysis, CAPM, Sharpe ratio and risk metrics  
@@ -72,7 +53,7 @@ Seeking international opportunities to contribute to data platforms and analytic
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 - Data Engineering & Data Platforms  
 - Cloud Data Environments (AWS)  
 - Analytics Infrastructure  
