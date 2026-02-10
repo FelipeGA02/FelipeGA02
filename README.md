@@ -5,12 +5,9 @@ Computer Science @ Dom Helder • Brazil
 Building scalable data pipelines, analytics systems and cloud data environments.
 
 <div align="center">
-
-| LinkedIn | Gmail | Instagram |
-| :---: | :---: | :---: |
-| <a href="https://www.linkedin.com/in/felipe-araujo-005529264/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a> | <a href="mailto:felipegurgel5@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" /></a> | <a href="https://www.instagram.com/felipe_gurgel02/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" /></a> |
-| [Felipe Araujo](https://www.linkedin.com/in/felipe-araujo-005529264/) | [felipegurgel5@gmail.com](mailto:felipegurgel5@gmail.com) | [@felipe_gurgel02](https://www.instagram.com/felipe_gurgel02/) |
-
+  <a href="https://www.linkedin.com/in/felipe-araujo-005529264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:felipegurgel5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felipe_gurgel02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ---
