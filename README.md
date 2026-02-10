@@ -7,15 +7,15 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 <p align="center">
 
 <a href="https://linkedin.com/in/seu-link" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:felipegurgel5@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/felipe_gurgel02/" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
