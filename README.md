@@ -6,14 +6,14 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/seu-link" target="_blank">
+<a href="linkedin.com/in/felipe-araujo-005529264" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+    
 <a href="mailto:felipegurgel5@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+    
 <a href="https://www.instagram.com/felipe_gurgel02/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
