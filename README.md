@@ -4,6 +4,22 @@
 Computer Science @ Dom Helder • Brazil  
 Building scalable data pipelines, analytics systems and cloud data environments.
 
+<p align="center">
+
+<a href="https://linkedin.com/in/seu-link" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Gurgel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:felipegurgel5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/felipe_gurgel02/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@felipe__gurgel02-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 ## Core Skills
@@ -65,12 +81,6 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 - Analytics Infrastructure  
 - Backend for data-driven systems  
 - International tech opportunities  
-
----
-
-# Connect
-**LinkedIn:** https://linkedin.com/in/seu-link  
-**Email:** felipegurgel5@gmail.com
 
 ---
 
