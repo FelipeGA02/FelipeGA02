@@ -6,14 +6,6 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 
 ---
 
-# About Me
-Data Engineer focused on building reliable data pipelines, analytics infrastructure and backend systems for data-driven products.  
-Experience with financial data, ETL processes and cloud environments, always aiming for scalability, performance and clean architecture.
-
-Seeking international opportunities to contribute to data platforms and analytics systems.
-
----
-
 ## Core Skills
 
 ### Languages
@@ -45,15 +37,6 @@ Seeking international opportunities to contribute to data platforms and analytic
 
 ### Concepts
 `Analytics Engineering` • `Backend for Data Systems` • `Scalable Systems` • `Data Architecture`
-
----
-
-# What I Build
-- Scalable data pipelines and ETL workflows  
-- Financial and payment data processing systems  
-- Analytics dashboards and KPI tracking  
-- Data modeling for performance and scalability  
-- Backend systems for data-driven products  
 
 ---
 
