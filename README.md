@@ -1,55 +1,91 @@
-# 🌟 Felipe Araujo | Cientista de Dados & Desenvolvedor Full Stack
+# Felipe Gurgel  
+**Data Engineer | Analytics | Backend & Data Pipelines**
 
-🎓 Estudante de Ciência da Computação na **Dom Helder Escola Superior**  
-📍 Belo Horizonte, MG, Brasil  
-🚀 Explorando o mundo da **Inteligência Artificial**, **Machine Learning** e **Soluções de Back-end Escaláveis**  
+Building scalable data solutions, financial integrations and analytics systems that support real business decisions.
 
----
-
-<div align="center">
-
-### 🛠️ **Tecnologias Mais Usadas**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-</div>
+📍 Brazil  
+📧 felipegurgel5@gmail.com  
+💼 [LinkedIn](https://linkedin.com/felipearaujo)  
+💻 [GitHub](https://github.com/FelipeGA02)
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
+Data Engineer with strong experience in **data pipelines, ETL, financial data processing and analytics** within high-criticality corporate environments.
 
-### 🌐 **Minhas Redes Sociais**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-araujo-005529264/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGA02)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipegurgel5@gmail.com)
+I work at the intersection of **data engineering + software engineering**, building structured data solutions, integrations with financial systems, dashboards and cloud-based architectures on AWS.
 
-</div>
+Focused on performance, scalability and clean data architecture — always aiming to turn raw data into reliable decision-making tools.
 
 ---
 
-## 💡 Sobre mim
-Apaixonado por resolver problemas reais com tecnologia, estou constantemente buscando formas de conectar dados, pessoas e inovação. Como cientista de dados em formação e desenvolvedor full stack, trabalho na interseção entre análise de dados e desenvolvimento de soluções digitais robustas.
+## ⚡ What I Do Best
+- Build and optimize **data pipelines & ETL processes**
+- Work with **financial and large-scale structured data**
+- Design **data models and integrations with external systems**
+- Create **analytics dashboards and business metrics**
+- Develop **backend and data-driven solutions**
+- Operate in **cloud environments (AWS)**
 
 ---
 
-## 🌟 Destaques dos Meus Projetos
--  
+## 🛠️ Tech Stack
 
-- 
+### 💻 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-- **[Portfólio Completo](#)**
+### 📊 Data Engineering & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-informational?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data-Modeling-blue?style=for-the-badge)
+
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
+### ☁️ Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### 🤖 Data Science & ML
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
 ---
 
-> "A tecnologia só tem valor se usada para melhorar vidas e construir um futuro mais sustentável."  
+## 📊 Featured Areas
+**Financial Data Engineering**  
+Pipelines, structured files, banking integrations and billing data.
+
+**Analytics & Decision Support**  
+Dashboards, KPIs and metrics-driven insights for business teams.
+
+**Backend & Data Systems**  
+Microservices, APIs and cloud-based data architectures.
 
 ---
 
-⭐ Se algum dos meus projetos ou ideias chamou sua atenção, sinta-se à vontade para me contatar!  
-Vamos criar algo incrível juntos. 🚀
+## 🎯 Current Focus
+- Data Engineering (ETL, pipelines, architecture)
+- Cloud data environments (AWS)
+- Financial & payment data systems
+- Scalable analytics infrastructure
+
+---
+
+## 📫 Let's Connect
+I’m open to opportunities in **Data Engineering, Analytics and Data-focused Software roles**, especially international and remote environments.
+
+💼 LinkedIn: https://linkedin.com/felipearaujo  
+📧 Email: felipegurgel5@gmail.com  
+
+---
+
+⭐ If you're a recruiter or engineer working with data, feel free to connect.
