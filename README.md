@@ -45,25 +45,6 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 
 ---
 
-# Featured Projects
-
-### Financial Data & Portfolio Analytics
-- Portfolio analysis, CAPM, Sharpe ratio and risk metrics  
-- Data pipelines with Python and Pandas  
-- Performance dashboards and reporting  
-
-### Business Analytics & Dashboards
-- KPI dashboards and business metrics  
-- Data modeling and automation  
-- Power BI analytics solutions  
-
-### Machine Learning & Computer Vision
-- Image classification for agricultural disease detection  
-- Medical imaging segmentation (U-Net)  
-- TensorFlow deep learning pipelines  
-
----
-
 # Current Focus
 - Data Engineering & Data Platforms  
 - Cloud Data Environments (AWS)  
