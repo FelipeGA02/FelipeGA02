@@ -1,8 +1,8 @@
 # Felipe Gurgel  
-**Data Engineer | Analytics Engineer | Backend for Data Systems**
+**Data Engineer | Software Engineer **
 
 Computer Science @ Dom Helder • Brazil  
-Building scalable data pipelines, analytics systems and cloud data environments.
+Building scalable data pipelines with optimized solutions, machine learning models, and cloud data environments.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-araujo-005529264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -45,13 +45,4 @@ Building scalable data pipelines, analytics systems and cloud data environments.
 
 ---
 
-# Current Focus
-- Data Engineering & Data Platforms  
-- Cloud Data Environments (AWS)  
-- Analytics Infrastructure  
-- Backend for data-driven systems  
-- International tech opportunities  
-
----
-
-Always building and improving as a Data Engineer
+Always building and improving as a Data Engineer & Software Engineer
