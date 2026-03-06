@@ -1,5 +1,5 @@
 # Felipe Gurgel  
-**Data Engineer | Software Engineer **
+**Data Engineer | Software Engineer**
 
 Computer Science @ Dom Helder • Brazil  
 Building scalable data pipelines with optimized solutions, machine learning models, and cloud data environments.
